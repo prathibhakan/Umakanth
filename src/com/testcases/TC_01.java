@@ -18,7 +18,7 @@ public class TC_01
 		Admin adn = PageFactory.initElements(driver, Admin.class);
 		lgn.admin();
 		//adn.create_Newstaff();
-		adn.create_Newcustomer();
+		
 		
 		
 	}
