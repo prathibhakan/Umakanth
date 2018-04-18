@@ -17,7 +17,7 @@ public class TC_01
 		Login lgn = PageFactory.initElements(driver, Login.class);
 		Admin adn = PageFactory.initElements(driver, Admin.class);
 		lgn.admin();
-		//adn.create_Newstaff();
+		
 		
 		
 		
