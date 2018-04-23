@@ -17,7 +17,7 @@ public class Pkg
 		List<WebElement> a = driver.findElements(By.xpath("//table/thead/tr/th[5]"));
 		int rows = a.size();
 		System.out.println(rows);
-
+		System.out.println("No od rows");
 		
 		
 		
